@@ -1,2 +1,2 @@
-# Imersao-CSS-primeira-versao-
-site que demorei 3 HORAS pra fazer, por causa de idiotices.
+# Imersao-CSS-terceira-versao-
+Site que se atualza todo dia
